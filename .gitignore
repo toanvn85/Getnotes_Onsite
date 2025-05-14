@@ -1,0 +1,16 @@
+# Thông tin bảo mật
+.streamlit/secrets.toml
+
+# Môi trường Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Các file hệ thống
+.DS_Store
+Thumbs.db
